@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PanViewController.h
 //  Gestures
 //
 //  Created by David Mills on 2019-05-09.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface PanViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
